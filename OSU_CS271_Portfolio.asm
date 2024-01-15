@@ -1,4 +1,4 @@
-TITLE Project 6: String Primitives and Macros    (Proj6_keithlig.asm)
+TITLE -Redacted-    (Proj6_keithlig.asm)
 
 ; Author: Gilbert Keithline
 ; Last Modified: 12/18/2023
