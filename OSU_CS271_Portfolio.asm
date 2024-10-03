@@ -1,8 +1,8 @@
-TITLE -Redacted-    (Proj6_keithlig.asm)
+TITLE -Redacted-    (Proj6_-Redacted-.asm)
 
-; Author: Gilbert Keithline
+; Author: -Redacted-
 ; Last Modified: 12/18/2023
-; OSU email address: keithlig@oregonstate.edu
+; OSU email address: -Redacted-
 ; Course number/section:   CS271 Section 400
 ; Project Number: 6                Due Date: 12/20/2023
 ; Description: Program accepts 10 numeric values from the user in the form of ASCII strings. The ASCII characters are then converted into
