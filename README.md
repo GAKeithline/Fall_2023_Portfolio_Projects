@@ -1,6 +1,6 @@
 This portfolio project was the final assignment of Oregon State University's course on computer architecture and assembly language.
 CS271: Computer Architecture and Assembly Language, focuses on assembly level programming on x86 architectures.
-All coding and debugging was carried our in the Microsoft Visual Studio 2019 IDE.
+All coding and debugging was carried out in the Microsoft Visual Studio 2019 IDE.
 
 Description:
   Program accepts 10 numeric values from the user in the form of ASCII strings. The ASCII characters are then converted into
